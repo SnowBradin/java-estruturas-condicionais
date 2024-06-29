@@ -8,8 +8,6 @@ public class CaixaEletronico {
         System.out.println("Novo Saldo " + saldo);
         } //se existir mais de uma linha no "if", coloque-o em um bloco {}
         else
-        System.out.println("Saldo Insuficiente");
-
-        
+        System.out.println("Saldo Insuficiente"); 
     }
 }
